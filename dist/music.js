@@ -5,15 +5,15 @@ const ap = new APlayer({
     audio: [
       {
         name: "Let it go",
-        artist: '徐梦圆',
+        artist: 'Demi Lovato',
         url: 'http://up.mcyt.net/?down/32907.mp3',
         cover: 'http://oeff2vktt.bkt.clouddn.com/image/37.jpg',
       },
       {
-        name: '9420',
-        artist: '麦小兜',
+        name: '起风了',
+        artist: '买辣椒也用券',
         url: 'http://up.mcyt.net/?down/45967.mp3',
-        cover: 'http://oeff2vktt.bkt.clouddn.com/image/8.jpg',
+        cover: 'http://oeff2vktt.bkt.clouddn.com/image/83.jpg',
       },
       {
         name: '风筝误',
